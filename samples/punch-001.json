@@ -1,0 +1,30 @@
+{
+  "list_id": "PL-2026-003",
+  "job_id": "JOB-2026-042",
+  "client": "Acme Property Management",
+  "location": "123 Main St, Springfield MO — RTU-3",
+  "walkthrough_date": "2026-10-28",
+  "items": [
+    {
+      "item_id": "P-01",
+      "location": "RTU-3 electrical panel",
+      "description": "Missing panel cover screw (NE corner)",
+      "status": "open",
+      "owner": "tech-dan",
+      "priority": "low",
+      "media_hashes": []
+    },
+    {
+      "item_id": "P-02",
+      "location": "RTU-3 condensate drain",
+      "description": "Drain line not fully insulated past roof penetration",
+      "status": "closed",
+      "owner": "tech-dan",
+      "priority": "medium",
+      "closed_at": "2026-10-28T16:20:00+00:00",
+      "media_hashes": []
+    }
+  ],
+  "operator": "tech-dan",
+  "notes": "Final walkthrough with client site lead present."
+}
